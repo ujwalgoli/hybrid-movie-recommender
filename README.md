@@ -31,14 +31,5 @@ A personalized movie recommendation engine combining **User-based CF**, **Item-b
 
 ---
 
-## 🖥️ Screenshots
-
-> Replace these placeholders with actual screenshots of your app.
-
-| Home / Input | Recommendations |
-|--------------|----------------|
-| ![Home](https://via.placeholder.com/350x200?text=Home+Screen) | ![Recommendations](https://via.placeholder.com/350x200?text=Recommendations) |
-
----
 
 
